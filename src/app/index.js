@@ -40,7 +40,7 @@ const styles = StyleSheet.create({
         flex: 1,
         alignItems: 'center',
         justifyContent: 'center',
-        backgroundColor: "#npx expofff" 
+        backgroundColor: "#fff" 
     },
     image: {
         width: screenWidth * 0.3,
