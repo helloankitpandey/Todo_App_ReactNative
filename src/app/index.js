@@ -15,7 +15,7 @@ const Main = () => {
     })
 
     // creating state
-    // const [hasNavigated, setHasNavigated] = useState(false);
+    const [hasNavigated, setHasNavigated] = useState(false);
 
     // creating useEffect
     useEffect(() => {
