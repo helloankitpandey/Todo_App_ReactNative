@@ -13,9 +13,9 @@ const styles = StyleSheet.create({
     container: {
         borderRadius: 100,
         padding: 15,
-        // alignItems: "center",
-        // justifyContent: "center",
-        // backgroundColor: "#0090B0",
+        alignItems: "center",
+        justifyContent: "center",
+        backgroundColor: "#0090B0",
         marginTop: 10,
         alignSelf: "center",
         paddingHorizontal: 50

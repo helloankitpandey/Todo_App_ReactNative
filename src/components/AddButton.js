@@ -25,10 +25,10 @@ const styles = StyleSheet.create({
         justifyContent: "center",
         alignItems: "center",
         shadowColor: "#000",
-        // elevation: 10,
-        // shadowRadius: 2,
-        // shadowOffset: {width: 1, height:1},
-        // shadowOpacity: 0.7,
+        elevation: 10,
+        shadowRadius: 2,
+        shadowOffset: {width: 1, height:1},
+        shadowOpacity: 0.7,
     }
 });
 
