@@ -6,7 +6,7 @@ import { router } from "expo-router";
 const AddButton = () => {
     return (
         <TouchableOpacity 
-            style={styles.container} 
+            // style={styles.container} 
             onPress={() => router.navigate("/addtodo")} 
         >
             <Entypo name="plus" size={24} color="#fff" />
