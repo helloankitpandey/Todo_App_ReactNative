@@ -27,9 +27,9 @@ const styles = StyleSheet.create({
     text:{
         fontSize: 22,
         fontFamily: "SpaceMono",
-        textAlign: "center",
-        fontWeight: 800,
-        color:"#fff"
+        // textAlign: "center",
+        // fontWeight: 800,
+        // color:"#fff"
     },
     backButton:{
         position: 'absolute', 
