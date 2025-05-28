@@ -7,7 +7,7 @@ const AddButton = () => {
     return (
         <TouchableOpacity 
             style={styles.container} 
-            // onPress={() => router.navigate("/addtodo")} 
+            onPress={() => router.navigate("/addtodo")} 
         >
             <Entypo name="plus" size={24} color="#fff" />
         </TouchableOpacity>
