@@ -18,6 +18,8 @@ const styles = StyleSheet.create({
     container: {
         position:"absolute",
         bottom: 30,
+        right: 20,
+        backgroundColor: "#0090B0",
         padding: 15,
         borderRadius: 120,
         justifyContent: "center",
