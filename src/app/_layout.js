@@ -12,6 +12,8 @@ const Layout = () => {
             <StatusBar style='light' backgroundColor='grey' translucent={false} />
             <Stack screenOptions={{headerShown: false}} >
                 <Stack.Screen name="index" />
+                                <Stack.Screen name="index" />
+
                 <Stack.Screen name="home" />
                 <Stack.Screen name="addtodo" />
             </Stack>
