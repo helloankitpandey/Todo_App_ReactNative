@@ -27,7 +27,7 @@ const styles = StyleSheet.create({
     text:{
         fontSize: 22,
         fontFamily: "SpaceMono",
-        textAlign: "center",
+        // textAlign: "center",
         fontWeight: 800,
         color:"#fff"
     },
