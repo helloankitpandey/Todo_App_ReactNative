@@ -47,7 +47,7 @@ const TodoItem = ({ item }) => {
             <Ionicons 
               name="trash-sharp" 
               size={32} 
-            //   color="red" 
+              color="red" 
               onPress={deleteHandler}
             />
             </View>
